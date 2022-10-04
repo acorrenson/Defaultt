@@ -1,0 +1,4 @@
+-R theories/ defaultt
+theories/set.v
+theories/lprop.v
+theories/default.v
